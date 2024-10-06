@@ -57,7 +57,7 @@ The goal is to build a machine learning model to predict the `Transported` statu
 
 ## 🎯 **Results**
 
-The final model achieved an impressive accuracy score of `XX%` (replace with your actual score) on the test data. 🚀
+The final model achieved an impressive accuracy score of `81` (replace with your actual score) on the test data. 🚀
 
 
 
