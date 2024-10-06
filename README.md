@@ -59,10 +59,7 @@ The goal is to build a machine learning model to predict the `Transported` statu
 
 The final model achieved an impressive accuracy score of `XX%` (replace with your actual score) on the test data. 🚀
 
-## 📈 **Visualizations**
 
-![Model Performance](link-to-visualization.png)  
-*Add some of your key visualizations here or link them from your Kaggle notebook.*
 
 ## 🛠️ **How to Use**
 
