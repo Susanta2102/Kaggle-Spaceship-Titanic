@@ -1,7 +1,7 @@
 
 # 🚀 **Kaggle Spaceship Titanic - Machine Learning Project** 🌌
 
-![Spaceship Titanic Banner](https://storage.googleapis.com/kaggle-competitions/kaggle/31354/logos/header.png)
+
 
 ## 📝 **Project Overview**
 
